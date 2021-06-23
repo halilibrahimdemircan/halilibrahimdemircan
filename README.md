@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**halilibrahimdemircan/halilibrahimdemircan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 -  🌱  I’m currently learning Java, Python, SQL, Git&GitHub, HTML, CSS, JS,...
 -  👯  Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
