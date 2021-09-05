@@ -2,7 +2,7 @@
 
 
 
--  🌱  I’m currently learning Java, Python, SQL, Git&GitHub, HTML, CSS, JS,...
+-  🌱  I’m currently learning Python, SQL, Git&GitHub, HTML, CSS, JS,...
 -  👯  Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  ✨  A lifelong learner. 
