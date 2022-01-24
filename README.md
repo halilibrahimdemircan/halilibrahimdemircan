@@ -2,7 +2,8 @@
 
 
 
--  🌱  I’m currently learning Python, SQL, Git&GitHub, HTML, CSS, JS,...
+-  🌱  I’m currently learning Python-Django and Node Js...
+-  🌱  I have learned Python, SQL, Git&GitHub, HTML, CSS, JS and as a Front-End Developer I made a lot of React project
 -  👯  Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  ✨  A lifelong learner. 
