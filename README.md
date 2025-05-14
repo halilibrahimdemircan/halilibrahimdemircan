@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
--  🌱  I’m currently learning WebSocket, Docker and Kubernetes...
--  🌱  I have learned Python, Django REST, NodeJs SQL, Git&GitHub, HTML, CSS, JS and as a Full Stack Developer I made a lot of React-NodeJs and React-Django projects
 -  👯  Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  ✨  A lifelong learner. 
